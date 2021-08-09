@@ -1,6 +1,12 @@
-# Personality Quiz Starter Code
+# Personality Quiz 
 
-This is a place for you to start building your personality quiz!
+Are you more of a folklore person or an evermore person?
+
+## Screen Shot
+![MainPageScreenShot](./screenShot.png)
+
+## Link
+https://personality-quiz-starter-code-1.aditishukla3.repl.co/
 
 ### Project Requirements
 Your project should:
